@@ -1,0 +1,10 @@
+(librepcb_component_category 115e75a5-c9f3-4aed-b46e-b8de42dc2ca2
+ (name "TY-40")
+ (description "")
+ (keywords "TDK")
+ (author "Emeric")
+ (version "0.1")
+ (created 2024-08-19T10:05:02Z)
+ (deprecated false)
+ (parent b3adfa1e-b878-44f6-902a-14ef3dad7a14)
+)

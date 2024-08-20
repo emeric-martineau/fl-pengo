@@ -1,0 +1,11 @@
+(librepcb_library ae19c689-dc20-4a1d-8b89-a6a15a454b1f
+ (name "TDK")
+ (description "")
+ (keywords "")
+ (author "Emeric")
+ (version "0.1")
+ (created 2024-08-19T09:48:14Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "TDK")
+)
