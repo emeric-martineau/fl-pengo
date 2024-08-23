@@ -22,7 +22,7 @@ This license enables reusers to distribute, remix, adapt, and build upon the mat
 
 In this repository, you can find the [LibrePCB](https://librepcb.org) workspace to view/modify FL Pengo game (the root of repository).
 
-In `doc` folder, you have some documentations about this game.
+In `doc` folder, you have some documentations about this game and rom of game.
 
 In `images` folder, you have some picture that help you to understand schematic, view motherboard and screen with high definition.
 You have also [full picture of schematic](./images/full-schematic.png).
